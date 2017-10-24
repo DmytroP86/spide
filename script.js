@@ -30,10 +30,10 @@ var cat = {}
   cat.run(7)  
   console.log(cat);
 var tiger=  {};
-	tiger.speak = function() {
-	tiger.speaks("RRR")
-	alert ('RRR')
-	};
-	alert ('RRR');
-	console.log(tiger);
+  tiger.speak = function() {
+  tiger.speaks("RRR")
+  alert ('RRR')
+  };
+  alert ('RRR');
+  console.log(tiger);
 
